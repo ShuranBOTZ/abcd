@@ -68,8 +68,8 @@ let d = new Date(new Date + 3600000)
 	rows: [
 	    {title: "📌 STATUS BOT", rowId: '.statusbot'},
 	    {title: "📌 SPEED", rowId: '.ping'},
-	{title: "📌 SEWA", rowId: '.sewa'},
-	{title: "📌 DONASI", rowId: '.donasi'},
+	{title: "📌 -", rowId: '-'},
+	{title: "📌 -", rowId: '-'},
 	{title: "📌 MENU", rowId: '.menu'},
   ]},]
   const listMessage = {
