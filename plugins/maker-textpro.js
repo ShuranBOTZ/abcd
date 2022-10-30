@@ -98,6 +98,26 @@ var effects = [
     "url": "https://textpro.me/create-3d-avengers-logo-online-974.html"
   },
   {
+    "title": "GreenNeon",
+    "url": "https://textpro.me/green-neon-text-effect-874.html"
+  },
+    {
+    "title": "PornHub",
+    "url": "https://textpro.me/pornhub-style-logo-online-generator-free-977.html"
+  },
+    {
+    "title": "Blood",
+    "url": "https://textpro.me/horror-blood-text-effect-online-883.html"
+  },
+    {
+    "title": "Magma",
+    "url": "https://textpro.me/create-a-magma-hot-text-effect-online-1030.html"
+  },
+   {
+    "title": "nelight",
+    "url": "https://textpro.me/neon-light-text-effect-online-882.html"
+  },
+  {
     "title": "3DMetalSilver",
     "url": "https://textpro.me/text-logo-3d-metal-silver-946.html"
   },
